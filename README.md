@@ -24,17 +24,35 @@ The project can be use however the user intends to. Intended for Managers in the
 
 ___
 ## ScreenShots
+First install dependncies
+![](./assets/Screenshot%202022-11-22%20at%2010.51.37%20PM.png)
 
-![](./images/Screenshot%202022-11-14%20174058.png)
+Then start the program and follow the promts
+![](./assets/Screenshot%202022-11-22%20at%2010.54.03%20PM.png)
 
-![](./images/Screenshot%202022-11-14%20174058.png)
+It will ask you for the role of the team member
+![](./assets/Screenshot%202022-11-22%20at%2010.54.37%20PM.png)
 
-![](./images/Screenshot%202022-11-14%20174058.png)
+You have the choice to add more or finish the roster
 
-![](./images/Screenshot%202022-11-14%20174058.png)
+![](./assets/Screenshot%202022-11-22%20at%2010.54.51%20PM.png)
+
+Once done hit "Create Page"
+
+![](./assets/Screenshot%202022-11-22%20at%2010.55.21%20PM.png)
+
+Look for the generated page in the output folder!
+
+![](./assets/Screenshot%202022-11-22%20at%2010.56.27%20PM.png)
+
+And tadaaa! Here is your neatly generated Team roster!
+
+![](./assets/Screenshot%202022-11-22%20at%2010.59.28%20PM.png)
 ___
 ## Video Tutorial
+Here is a video for a more detai instructions
 
+https://drive.google.com/file/d/1HOhxNiYexnOtnl-dkfoCxupPtBnNZLWB/view
 
 ___
 ## License
