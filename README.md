@@ -35,7 +35,7 @@ ___
 ___
 ## Video Tutorial
 
-[Untitled_ Nov 22, 2022 10_28 PM.webm](https://user-images.githubusercontent.com/112591613/203464849-93cdf1c9-1e8b-4ff5-acbd-f9e46d4082fa.webm)
+https://drive.google.com/file/d/1HOhxNiYexnOtnl-dkfoCxupPtBnNZLWB/view
 ___
 ## License
 This project is licensed under the MIT license.
