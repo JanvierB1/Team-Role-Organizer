@@ -8,12 +8,12 @@ test("Can set school via constructor", () => {
 
 test("getRole() should return \"Intern\"", () => {
   const testValue = "Intern";
-  const e = new Intern("wee", 6, "test@value.com", "UCLA");
-  expect(e.getRole()).toBe(testValue);
+  const event = new Intern("wee", 6, "test@value.com", "UCLA");
+  expect(event.getRole()).toBe(testValue);
 });
 
 test("Can get school via getSchool()", () => {
   const testValue = "UCLA";
-  const e = new Intern("wee", 6, "test@value.com", testValue);
-  expect(e.getSchool()).toBe(testValue);
+  const event = new Intern("wee", 6, "test@value.com", testValue);
+  expect(event.getSchool()).toBe(testValue);
 });
