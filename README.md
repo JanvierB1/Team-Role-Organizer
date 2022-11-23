@@ -68,4 +68,4 @@ node index.js
 ```
 ___
 ## Questions
-If you have any questions feel free tp contact me directly at janvieracevedo912@gmail.com. You can find my github profile at [github.com/JanvierB1](https://github.com/JanvierB1/)[Untitled_ Nov 22, 2022 10_28 PM.webm](https://user-images.githubusercontent.com/112591613/203464723-f781a990-1836-48b3-8f31-3a7c4e386ef8.webm)
+If you have any questions feel free tp contact me directly at janvieracevedo912@gmail.com. You can find my github profile at [github.com/JanvierB1](https://github.com/JanvierB1/)
