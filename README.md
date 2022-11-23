@@ -35,8 +35,6 @@ ___
 ___
 ## Video Tutorial
 
-https://drive.google.com/file/d/1HOhxNiYexnOtnl-dkfoCxupPtBnNZLWB/view
-
 ___
 ## License
 This project is licensed under the MIT license.
